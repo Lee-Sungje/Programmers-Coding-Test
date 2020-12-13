@@ -1,12 +1,11 @@
-﻿/* 프로그래머스 - 직사각형 별찍기 */
+﻿/* 프로그래머스 - Level 1 직사각형 별찍기 */
 
 #include <iostream>
 
 using namespace std;
 
 int main(void) {
-	int a;
-	int b;
+	int a, b;
 	cin >> a >> b;
 
 	for (int i = 0; i < b; i++) {

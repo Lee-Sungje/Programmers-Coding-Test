@@ -1,4 +1,4 @@
-﻿/* 프로그래머스 - 하샤드 수 */
+﻿/* 프로그래머스 - Level 1 하샤드 수 */
 
 #include <string>
 #include <vector>

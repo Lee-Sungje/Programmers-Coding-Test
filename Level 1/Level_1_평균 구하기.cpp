@@ -1,4 +1,4 @@
-﻿/* 프로그래머스 - 평균 구하기 */
+﻿/* 프로그래머스 - Level 2 평균 구하기 */
 
 #include <string>
 #include <vector>

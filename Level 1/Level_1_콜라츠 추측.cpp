@@ -1,4 +1,4 @@
-﻿/* 프로그래머스 - 콜라츠 추측 */
+﻿/* 프로그래머스 - Level 1 콜라츠 추측 */
 
 #include <string>
 #include <vector>

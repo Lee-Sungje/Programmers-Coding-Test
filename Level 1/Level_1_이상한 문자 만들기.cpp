@@ -1,6 +1,5 @@
-﻿/* 프로그래머스 - 이상한 문자 만들기 */
+﻿/* 프로그래머스 - Level 1 이상한 문자 만들기 */
 
-#include <iostream>
 #include <string>
 #include <vector>
 

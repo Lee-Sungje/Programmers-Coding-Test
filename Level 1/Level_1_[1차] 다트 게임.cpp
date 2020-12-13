@@ -1,4 +1,4 @@
-﻿/* 프로그래머스 - [1차] 다트 게임 */
+﻿/* 프로그래머스 - Level 1 [1차] 다트 게임 */
 
 #include <string>
 #include <regex>

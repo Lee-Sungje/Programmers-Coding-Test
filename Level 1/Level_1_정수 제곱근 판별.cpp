@@ -1,4 +1,4 @@
-﻿/* 정수 제곱근 판별 */
+﻿/* 프로그래머스 - Level 1 정수 제곱근 판별 */
 
 #include <string>
 #include <vector>

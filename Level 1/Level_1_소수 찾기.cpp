@@ -1,4 +1,4 @@
-﻿/* 프로그래머스 - 소수 찾기 */
+﻿/* 프로그래머스 - Level 1 소수 찾기 */
 
 #include <vector>
 #include <algorithm>
